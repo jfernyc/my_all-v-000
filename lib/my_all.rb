@@ -10,5 +10,5 @@ def my_all?(collection)
 end
 
 end 
-binding.pry 
+
 
