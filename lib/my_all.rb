@@ -8,7 +8,7 @@ def my_all?(collection)
   i += 1 
  
 end
-binding.pry 
-end 
 
+end 
+binding.pry 
 
