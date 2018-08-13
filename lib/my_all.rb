@@ -5,6 +5,7 @@ def my_all?(collection)
  while i < collection.length 
   i += 1 
   
-  end
-  binding."pry"
+end
 end 
+binding.pry
+
